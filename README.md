@@ -21,10 +21,24 @@ Belajar Python/
 ├── Minggu 3 → Fungsi, List, Tuple, Dictionary
 ├── Minggu 4 → File Handling, Error Handling, OOP Dasar
 ├── Minggu 5 → Inheritance, Modul, DateTime, Random, Mini Project
-└── Minggu 6 & 7 → Proyek Intermediate dan Modul Eksternal (JSON, CSV, API)
+├── Minggu 6 → Proyek Intermediate (Menu Utama, Validasi Input, Mini App)
+└── Minggu 7 → File JSON, CSV, API, dan OOP Lanjutan
 ```
 
 > 🗂️ Setiap folder berisi file Python dengan komentar detail di dalam kode agar mudah dipahami.
+
+---
+
+## 🗓️ Tabel Progres Belajar
+| Minggu | Topik Utama | File Utama | Status |
+|:------:|:-------------|:------------|:--------|
+| 1 | Dasar Python (Hello World, Variabel, Operator) | `pelajaran1.py` | ✅ Selesai |
+| 2 | Percabangan & Perulangan | `percabangan.py`, `perulangan.py` | ✅ Selesai |
+| 3 | Fungsi & Struktur Data (List, Tuple, Dict) | `fungsi_dasar.py`, `struktur_data.py` | ✅ Selesai |
+| 4 | File Handling, Error Handling, OOP Dasar | `file_oop.py` | ✅ Selesai |
+| 5 | Inheritance, Modul, DateTime, Random | `oop_modul.py` | ✅ Selesai |
+| 6 | Proyek Intermediate (Menu App + Error Handling) | `minggu6_proyek.py` | ✅ Selesai |
+| 7 | JSON, CSV, API, OOP Lanjutan | `minggu7.py` | ✅ Selesai |
 
 ---
 
@@ -97,6 +111,14 @@ Setelah menyelesaikan semua materi ini, kamu akan bisa:
 
 ## ⚖️ Lisensi
 Proyek ini dilisensikan di bawah **MIT License** — bebas digunakan untuk belajar, mengajar, dan berbagi kembali.
+
+---
+
+## 🌟 Dukungan
+Kalau kamu suka proyek ini, jangan lupa kasih ⭐ di repo GitHub-nya!  
+Setiap bintang membantu proyek ini terus berkembang dan jadi sumber belajar terbuka untuk semua.
+
+<p align="center"><b>Happy Coding & Keep Learning!</b> 🧑‍💻💪</p>
 
 ---
 
