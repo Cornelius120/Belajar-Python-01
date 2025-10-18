@@ -1,0 +1,1 @@
+Tujuan: Mempelajari cara membaca dan menulis file, menangani error dengan try-except, serta mengenal konsep dasar pemrograman berorientasi objek (OOP).

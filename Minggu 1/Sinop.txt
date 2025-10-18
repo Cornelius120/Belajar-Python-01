@@ -1,0 +1,1 @@
+Tujuan: Memahami dasar sintaks Python, cara menjalankan program, tipe data, dan operasi dasar.

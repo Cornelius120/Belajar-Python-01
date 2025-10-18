@@ -1,0 +1,1 @@
+Tujuan: Memahami cara berinteraksi dengan pengguna, membuat keputusan menggunakan if, dan membuat perulangan dengan for dan while.

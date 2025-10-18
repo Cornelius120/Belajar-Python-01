@@ -1,0 +1,1 @@
+Tujuan: Mempelajari konsep pewarisan pada OOP (Inheritance), cara membuat dan menggunakan modul, serta mempraktikkan penggunaan modul datetime dan random dalam mini project sederhana.

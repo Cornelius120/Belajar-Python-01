@@ -1,0 +1,1 @@
+Tujuan: Mengenal cara membuat fungsi, memahami list, tuple, dan dictionary, serta menggunakannya dalam program kecil.
